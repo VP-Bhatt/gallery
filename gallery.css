@@ -1,0 +1,44 @@
+img {
+    width: 100%;
+    margin: 2%;
+    float: left;
+}
+P {
+    margin:  1.66%;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 25px;
+    font-weight: 800;
+    border-bottom: 2px gray solid;
+    width: 30%;
+    padding-bottom:10px ;
+}
+div img {
+    align-items: baseline;
+}
+body {
+    background-color:rgb(253, 251, 251);
+}
+body {
+    padding-top: 70px;
+}
+.jumbotron {
+    color: #16212c;
+    background-color: lightgrey;
+}
+.navbar-inverse
+{
+    background: rgb(2, 66, 68);
+}
+.navbar-toggler
+{
+    color: #0b2b3d;
+}
+a {
+    color: white;
+}
+.navbar-inverse .navbar-nav>li>a {
+    color: white;
+}
+.navbar-inverse .navbar-brand {
+    color: white;
+}
